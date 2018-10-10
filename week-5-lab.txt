@@ -1,1 +1,1 @@
-Your triangle has 3 sides that are 2cm, 2cm, and 2.82843cm
+Your triangle has 3 sides that are 10cm, 10cm, and 14.1421cm

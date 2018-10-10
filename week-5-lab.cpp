@@ -13,8 +13,8 @@ cin >> first >> second;
 
 int width = pow(first, 2);
 int height = pow(second, 2);
-auto z = width + height;
-float result = sqrt(z);
+int z = width + height;
+auto result = sqrt(z);
 
 cout << "The Square root of (" << first << 
 "^2 + " << second << "^2)" << " = " << result << endl;
